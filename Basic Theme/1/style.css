@@ -1,0 +1,73 @@
+body {
+    background: #FFFFFF;
+    font-size: 20px;
+    font-family: "Abel",sans-serif;
+    color: #3B3B3B;
+}
+
+h1,h2 {
+    font-family: 'Impact',sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    color:#111111;
+
+}
+#logo h1 {
+    line-height: 150px;
+    letter-spacing: 3px;
+    font-size: 5em;
+}
+
+#header-page {
+    overflow: hidden;
+    height: 600px;
+}
+
+#header {
+    overflow: hidden;
+    width: 1000px;
+    height: 150px;
+    margin: 0 auto;
+    padding: 0 0;
+}
+
+#banner {
+    margin: 0 auto;
+    width:1000px;
+    height:450px;
+}
+
+img {
+    width:1000px;
+}
+#threeColumns {
+    width: 1000px;
+    margin:0 auto;
+    padding: 30px 0;        /* todo: 0 dose not need unit like px , pt , ... */
+    overflow: hidden;
+}
+
+#threeColumns h2 {
+    padding: 0 0 5px 0;
+    font-size: 50px;
+}
+
+#threeColumns #column1 {
+    width: 300px;
+    float: left;
+    margin-right: 50px;
+}
+
+#threeColumns #column2 {
+    width: 300px;
+    float: left;
+
+}
+
+#threeColumns #column3 {
+    width: 300px;
+    float: right;
+
+}

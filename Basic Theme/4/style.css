@@ -1,0 +1,91 @@
+body {
+    background: #FF6600;
+    font-size: 20px;
+    color: #2B2B2B;
+    font-family: 'Abel', sans-serif;
+}
+
+h1,
+h2 {
+    font-family: 'Gill Sans MT';
+    font-weight: bold;
+    color: #111111;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+span {
+    color: rgba(250, 250, 250, 1.0);
+}
+
+h2 {
+    text-align: center;
+    color: #2B2B2B;
+}
+
+#logo h1 {
+    font-size: 7.5em;
+    line-height: 100px;
+    width: 1000px auto;
+}
+
+#header {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+#sixColumns {
+    width: 1000px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 30px 30px;
+}
+
+#sixColumns h2 {
+    padding: 10px 10px;
+    font-size: 35px;
+    letter-spacing: -2px;
+}
+
+#sixColumns #column1 {
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+}
+
+#sixColumns #column2 {
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+}
+
+#sixColumns #column3 {
+    float: right;
+    width: 300px;
+}
+
+#sixColumns #column4 {
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+}
+
+#sixColumns #column5 {
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+}
+
+#sixColumns #column6 {
+    float: right;
+    width: 300px;
+}
+
+.size {
+    display: block;
+    font-size: 150px;
+    margin: 0 25%;
+    margin-bottom: 20px;
+}
