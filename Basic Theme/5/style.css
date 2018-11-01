@@ -1,0 +1,92 @@
+body {
+    background: rgba(252,252,252,1.0);
+    color:#2b2b2b;
+    font-family: 'Abel' , sans-serif;
+    font-size:20px;
+}
+
+h1 , h2 {
+    font-family: "Gill Sans MT";
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color:#111111;
+}
+
+h2{
+    color:#2B2B2B;
+}
+
+span {
+    color:rgba(252,252,252,1.0);
+    -webkit-text-stroke-color:#111111;
+    -webkit-text-stroke-width:3px;
+
+}
+
+#header {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+#logo h1 {
+    line-height: 150px;
+    width: 1000px;
+    font-size: 7em;
+}
+
+#sixColumns {
+    width: 1000px;
+    padding: 30px 30px;
+    margin:0 auto;
+    overflow: hidden;
+}
+
+#sixColumns #column1 {
+    width: 300px;
+    float:left;
+    margin-right: 30px; 
+}
+
+#sixColumns #column2 {
+    width: 300px;
+    float:left;
+  
+}
+
+#sixColumns #column3 {
+    width: 300px;
+    float:right;    
+}
+
+#sixColumns #column4 {
+    width: 300px;
+    float:left;
+    margin-right: 30px; 
+}
+
+#sixColumns #column5 {
+    width: 300px;
+    float:left;
+  
+}
+
+#sixColumns #column6 {
+    width: 300px;
+    float:right;    
+}
+
+#sixColumns i {
+  display: block;
+  text-align: center;
+  margin: 30px 0;
+  font-size: 150px;
+}
+
+span#small {
+        color:rgba(252,252,252,1.0);
+    -webkit-text-stroke-color:#111111;
+    -webkit-text-stroke-width:1px;
+}
