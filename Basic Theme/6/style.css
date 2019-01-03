@@ -1,0 +1,131 @@
+body {
+    background: #2B2B2B;
+    color:rgba(245,245,245,1.0);
+    font-family: "Abel",sans-serif;
+    font-size: 20px;
+}
+
+h1,h2 {
+    font-family: "Impact";
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    color: #FDFDFD;
+    text-align: center;
+}
+
+h1 {
+    color:#FF6B00;
+    letter-spacing: 5px;
+    line-height: 50px;
+}
+
+h2 {
+    letter-spacing: 3px;
+    font-size: 4em;
+}
+
+#firstSection {
+
+    width: 1000px;
+    margin: 0 auto;
+    padding: 30px 30px;
+    overflow: hidden;
+}
+
+#firstSectionFull {
+  background: #FF6B00;
+} 
+
+#lastSection {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 30px 30px;
+    overflow: hidden;
+}
+
+#lastSectionFull {
+    background: #FF6B00;
+}
+
+#logo h1 {
+    line-height: 150px;
+    width:1000px auto;
+    font-size: 7em;
+    padding: 30px 30px;
+}
+
+#columnsFullPage {
+
+}
+
+#sixColumns {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 30px 30px;
+}
+
+#sixColumns #column1 {
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+}
+
+#sixColumns #column2 {
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+#sixColumns #column3 {
+    width: 300px;
+    float: right;
+
+}
+
+#sixColumns #column4 {
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+#sixColumns #column5 {
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+#sixColumns #column6 {
+    width: 300px;
+    float: right;
+
+}
+#sixColumns h2 {
+    display: block;
+    margin-right: 50px;
+}
+
+i {
+    display: block;
+    font-size: 150px;
+    position: relative;
+    left: 50px;
+    margin-bottom: 10px;
+}
+
+#logo span {
+    color:#F2F2F2;
+}
+
+#firstSection span {
+    color:#222222;
+}
+
+#lastSection span {
+    color:#222222;
+}
